@@ -2,7 +2,7 @@
 specific project we will be making a command interpreter to access
 and modify the database of this webapp
 
-#it starts by running the "console.py" file
+#it starts by running the "console.py" file and has base model called   base model
 #we use it through the prompts for input displayed by the console 
 #example
 $ ./console.py
